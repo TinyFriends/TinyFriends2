@@ -1,4 +1,5 @@
 
+
 /* Start preambl */
 .preamble{
     /* height: 400px; */
@@ -238,7 +239,7 @@
         padding-top: 5px;
     }
 }
-@media (max-width:390px){
+@media (max-width:391px){
     .preamble-left p{
         font-size: 26px !important;
         padding: 50px 90px 0 0;

@@ -294,7 +294,7 @@ a:hover{
         transition: all ease 1s;
     }
 }
-@media(max-width:390px){
+@media(max-width:391px){
     .footer-title {
         font-size: 13px !important;
         margin-left: 19px !important;

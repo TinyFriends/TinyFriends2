@@ -207,11 +207,12 @@
         top:8px  !important;
     }
 }
-@media(max-width:390px){
+@media(max-width:391px){
     .login-right{
         padding-left: 30px;
     }
     .sign-in{
+        height: 800px !important;
         margin-top: 51px;
     }
     .login-right h1{
@@ -221,6 +222,7 @@
         top: 421px !important;
     }
     .cotainer-registration{
-        margin-top: 0px;
+        margin-top: 51px !important;
+        height: 800px !important;
     }
 }

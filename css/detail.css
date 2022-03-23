@@ -110,7 +110,7 @@
         padding-left: 40px;
     }
 }
-@media (max-width:390px){
+@media (max-width:391px){
     .product-img {
         width: 300px;
         height: 300px;

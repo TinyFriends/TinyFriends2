@@ -364,18 +364,21 @@ img{
   font-weight: 400;
   color: #333;
   font-family: Bungee;
+  padding-left: 10px;
 }
 .oplung-price{
   margin-bottom: 12px;
   font-family: var(--main-font);
   font-weight: 400;
   color: #333;
+  padding-left: 10px;
 }
 .oplung-content{
   /* font-family: var(--main-font); */
   font-family: 'Cascadia Code', sans-serif;
   margin-top: 20px;
   font-size: 15px;
+  padding-right: ;
 }
 .btn-oplung{
   background-color: #333;
@@ -771,14 +774,14 @@ img{
   .keychain-left{
     flex:unset;
     width: 50%;
-        padding: 18px 10px 0 30px;
+        padding: 6px 10px 0 30px;
 
   }
   .keychain-title{
     font-size:20px !important
   }
   .oplung-content{
-    font-size:14px;
+    font-size:11px;
   }
   .btn-keychain{
     width: 104px;
@@ -826,10 +829,14 @@ img{
     height:450px !important;
   }
 }
-@media (max-width:390px){
+@media (max-width:391px){
   .noidung{
     height: 325px !important;
 
+  }
+  .oplung-content{
+    font-size: 11px !important;
+    padding: 0 20px 0 10px;
   }
   .content-left img {
     height: 230px;
@@ -853,7 +860,7 @@ img{
   }
   .content-right-item p{
       line-height: 70px !important;
-      font-size: 13px;
+      font-size: 11px;
       margin-left: 0;
   }
   .banchay {
@@ -862,7 +869,7 @@ img{
     font-size: 16px !important;
   }
   .oplung-content{
-    font-size: 13px;
+    font-size: 11px !important;
   }
   .oplung-left{
     padding: 17px 0 0 10px !important;

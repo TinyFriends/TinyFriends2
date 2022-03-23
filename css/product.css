@@ -138,7 +138,7 @@
         left: 35px;
     }
 }
-@media (max-width:390px){
+@media (max-width:391px){
     .seach-input1 {
         right: -84px;
         height: 35px;
@@ -146,5 +146,8 @@
     }
     .product-content-item a > img{
         /* height: 72% !important; */
+    }
+    .product-content {
+        row-gap:150px !important;
     }
 }
