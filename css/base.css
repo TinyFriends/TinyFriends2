@@ -310,7 +310,8 @@ a:hover{
         font-size: 22px !important;
     }
     .footer{
-        height: 600px !important;
+        height: 300px !important;
+        width: 100% !important;
     }
     .footer-about{
         padding-left: 5px !important;
@@ -318,5 +319,21 @@ a:hover{
     }
     .footer-item:nth-child(3){
         height: 0;
+        visibility: hidden;
+    }
+    .footer-list{
+        justify-content: unset !important;
+        width: 100%;
+    }
+    .footer-item-first{
+        width: 50% !important;
+    }
+    .footer-right{
+        width: 50% ;
+        padding-left:40px;
+    }
+    
+    .footer-about-2{
+        margin-top: 111px;
     }
 }

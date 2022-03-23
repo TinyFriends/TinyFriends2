@@ -1,5 +1,5 @@
 .footer{
-    padding-top: 30px;
+    /* padding-top: 30px; */
     height: 100%;
 }
 .product{
@@ -142,6 +142,6 @@
         width: 339px !important;
     }
     .product-content-item a > img{
-        height: 72% !important;
+        /* height: 72% !important; */
     }
 }
